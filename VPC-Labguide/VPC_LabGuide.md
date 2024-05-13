@@ -44,7 +44,7 @@ Or just click [AWS Console](https://aws.amazon.com/console/ )
   
 ![](./images/VPC07.png )
   
-9.Once you start the VPC creation you will see a [**default VPC**](#section5 ) present in that window.
+9.Once you start the VPC creation you will see a [**default VPC**](#section5) present in that window.
 Click to know more about [default VPC](https://docs.aws.amazon.com/vpc/latest/userguide/default-vpc.html )
   
 10.And on top right corner select the **create VPC** button to create it manually (will be doing the same in some time)
@@ -54,19 +54,19 @@ Now click on default **VPC Id** present on screen to explore more about that VPC
     
 11.After clicking you will see the screen as shown below
   
-![](./images/VPC09.png )
+![](./images/VPC09.png)
 
 12.Here you can see the details of Default VPC
   
 13.Next Scroll down you will see a ***resource map***
 
-![](./images/VPC10.png )
+![](./images/VPC10.png)
 
 14.That Resource map conatins
-- [VPC](#section1 )
-- [Subnets](#section2 )
-- [Route Tables](#section3 ) &
-- [Connection networks](#section4 ) 
+- [VPC](#section1)
+- [Subnets](#section2)
+- [Route Tables](#section3) &
+- [Connection networks](#section4) 
   
 ----
 #### Creating VPC
